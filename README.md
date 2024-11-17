@@ -1,4 +1,5 @@
 # Etudiante en data science
+## A la recherche d'une alternance en Data Science à partir de septembre 2025
 
 #### Compétences techniques: Python, C, R, SAS, LaTex
 
